@@ -1,0 +1,28 @@
+
+body {
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Montserrat', sans-serif;   
+  }
+
+
+
+
+
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .social-icons li {
+    display:inline-block;
+    list-style-type:none;
+    }
+  .social-icons li a {
+    border-bottom: none;
+    }
+  .social-icons li img {
+    width:25px;
+    height:25px;
+    margin-right: 20px;
+  }
